@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cryptography.cs" />
+    <Compile Include="hmac.cs" />
+    <Compile Include="RijndaelEnhanced.cs" />
     <Compile Include="RijndaelSimple.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
