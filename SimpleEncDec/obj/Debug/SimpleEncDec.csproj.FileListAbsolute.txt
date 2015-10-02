@@ -1,0 +1,6 @@
+C:\Aditya\GIT-Projects\SimpleEncDec\SimpleEncDec\bin\Debug\SimpleEncDec.exe.config
+C:\Aditya\GIT-Projects\SimpleEncDec\SimpleEncDec\bin\Debug\SimpleEncDec.exe
+C:\Aditya\GIT-Projects\SimpleEncDec\SimpleEncDec\bin\Debug\SimpleEncDec.pdb
+C:\Aditya\GIT-Projects\SimpleEncDec\SimpleEncDec\obj\Debug\SimpleEncDec.csprojResolveAssemblyReference.cache
+C:\Aditya\GIT-Projects\SimpleEncDec\SimpleEncDec\obj\Debug\SimpleEncDec.exe
+C:\Aditya\GIT-Projects\SimpleEncDec\SimpleEncDec\obj\Debug\SimpleEncDec.pdb
